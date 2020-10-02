@@ -269,6 +269,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [ArviZ](https://github.com/arviz-devs/arviz/labels/Beginner) _(label: Beginner)_ <br> Exploratory Anaylsis of Bayesian Models.
 - [MindsDB](https://github.com/mindsdb/mindsdb/labels/good%20first%20issue) _(label: good first issue)_ <br> MindsDB is an open source AI layer for existing databases.
 - [Bokeh](https://github.com/bokeh/bokeh/labels/good%20first%20issue) _(label: good first issue)_ <br> Bokeh is an interactive visualization library for modern web browsers.
+- [Tensorflow](https://www.tensorflow.org/) <br> The core open source library to help you develop and train ML models.
 
 ## Ruby
 
